@@ -5,4 +5,4 @@
 
 --------
 
-Ez egy szövegmódosítás a _main branch_-ból elágaztatott _readme-edits branch_ tesztelésére.
+Ez egy szövegmódosítás a _main branch_-ból elágaztatott _readme-edits branch_ tesztelésére. Utóbbit a pull request és a merge után töröltem.
